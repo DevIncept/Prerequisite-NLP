@@ -46,8 +46,8 @@
  
 1. Word Embeddings
 
-     >Embedding Weight           Matrix
-      >lookup Tables
+   * Embedding Weight           Matrix
+   * lookup Tables
 
  2. Subsampling
 
