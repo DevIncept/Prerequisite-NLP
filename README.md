@@ -43,24 +43,24 @@
 
   - Bonus(BERT)
 
-Module 3
+**Module 3**
  
-- Word Embeddings
+1. Word Embeddings
 
      >Embedding Weight           Matrix
       >lookup Tables
 
- - Subsampling
+ 2. Subsampling
 
- - Validation
+ 3. Validation
 
- - Mini Project
+ 4. Mini Project
 
-Module 4
+**Module 4**
 
-  - Introduction to pytorch
+1. Introduction to pytorch
 
-  - SkipGram model
+2. SkipGram model
 
   - TSNE
 
