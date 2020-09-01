@@ -20,12 +20,11 @@
 1. Introduction to NLP
 
 2. Text-Cleaning and preprocessing  
-
- * Regular Expression
- * NLTK
- * Stopwords
- * Stemming
- * Lemmitization
+  * Regular Expression
+  * NLTK
+  * Stopwords
+  * Stemming
+  * Lemmitization
 
 3. Mini Project
 
