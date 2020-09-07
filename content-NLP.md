@@ -50,12 +50,12 @@
 5. [Part3: Sklearn Notebook](Part3-Sklearn.ipynb)
 6. [Part4: Project:Sentiment Analysis using Naive Bayes ](Part4-Sentiment.md)
 7. [Part4: Project:Sentiment Analysis Notebook](Part4-Sentiment.ipynb)
-8. [Part5: Competetion-Checking Acuuracy for different models](Part5-article.md)  
+8. [Part5: Competetion-Checking Accuracy for different models](Part5-article.md)  
 9. [part6: Bert](Part6-bert.md)  
 
 # Module 3
 
-> 1 Competetion, 2 Projects 
+> 1 Assignment
 1. [Part1: Introduction to Pytorch](Part1-pytorch.md)
    * Overview
    * Loading the data
@@ -70,14 +70,13 @@
    * [CBOW(Continous bag of words)](Part 3-1-CBOW.md)
    * [Skip-Gram](Part 3-2-Skip-Gram.md)
 4. [Part4: Lookup tables](Part3-lookup.md)
-4. [Part4: create Lookup table notebook](Part3-lookup.ipynb)
-5. [Part4: Face Recognition on custom data](Part5-face-recog.md)
-6. [Part5: Face Recognition on custom data Notebook](Part5-face-recog.ipynb)
-7. [Part6: Understanding Web sockets](Part6-websockets.md)
-8. [Part7: Installing and working on Pyzml](Part7-pyzml.md)
-9. [Part8: Understanding Client-Server architecture with Pyzml for OpenCV models](Part8-pyzml-ML.md)
-10. [Part9: Project:Face recognition application with Pyzml](Part9-P6.md)
-11. [Part10: Competetion-Going Deeper in Facial recognition](Part10-article.md)
+4. [Part4: Create Lookup table notebook](Part3-lookup.ipynb)
+5. [Part5: Subsampling](Part5-subsampling.md)
+5. [Part5: Subsampling Notebook](Part5-subsampling.ipynb)
+6. [Part6: Creating batches for Skip Gram Model](Part6-batches.md)
+7. [Part7: Assignment:Adding up all for Skip-Gram Model](Part7-assignment-skip_gram.md)
+7. [Part7: Assignment:Adding up all for Skip-Gram Model](Part7-assignment-skip_gram.ipynb)
+ 
 
 # Module 4
 
