@@ -6,6 +6,7 @@
 2. [Part2: Git](Part2-git.md)
 3. [Part3: Setting Environment](Part3-env.md)
 4. [Part4: Assignment-Github Profile](Part4-ass.md)
+5. [Part5: Python(List,Tuples,Dictionaries,Sets,Built-in Functions)](Part5-python.md)
 
 # Module 1
 
@@ -64,9 +65,13 @@
    * Evaluation
 
 2. [Part1: Pytorch notebook](Part1-pytorch.ipynb)
-3. [Part2: Project-Face detection web application with flask](Part3-P5.md)
-4. [Part4: Working on custom data](Part4-custom-data.md)
-5. [Part5: Face Recognition on custom data](Part5-face-recog.md)
+3. [Part2: Word Embeddings](Part2-Word_Embed.md)
+4. [Part3: Word2Vec model](Part3-Word_2_Vec.md)
+   * [CBOW(Continous bag of words)](Part 3-1-CBOW.md)
+   * [Skip-Gram](Part 3-2-Skip-Gram.md)
+4. [Part4: Lookup tables](Part3-lookup.md)
+4. [Part4: create Lookup table notebook](Part3-lookup.ipynb)
+5. [Part4: Face Recognition on custom data](Part5-face-recog.md)
 6. [Part5: Face Recognition on custom data Notebook](Part5-face-recog.ipynb)
 7. [Part6: Understanding Web sockets](Part6-websockets.md)
 8. [Part7: Installing and working on Pyzml](Part7-pyzml.md)
@@ -74,7 +79,7 @@
 10. [Part9: Project:Face recognition application with Pyzml](Part9-P6.md)
 11. [Part10: Competetion-Going Deeper in Facial recognition](Part10-article.md)
 
-# Module 3
+# Module 4
 
 > 1 Competetion(Portfolio), 2 Projects 
 
