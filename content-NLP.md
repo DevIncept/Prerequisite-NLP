@@ -47,16 +47,24 @@
    * Training and prediction
    * Accuracy
 5. [Part3: Sklearn Notebook](Part3-Sklearn.ipynb)
-6. [Part4: Project:Sentiment Analysis ](Part4-Sentiment.md)
+6. [Part4: Project:Sentiment Analysis using Naive Bayes ](Part4-Sentiment.md)
 7. [Part4: Project:Sentiment Analysis Notebook](Part4-Sentiment.ipynb)
-8. [Part5: Competetion-Checking Acuuracy for different models](Part5-article.md)
+8. [Part5: Competetion-Checking Acuuracy for different models](Part5-article.md)  
+9. [part6: Bert](Part6-bert.md)  
+
 # Module 3
 
 > 1 Competetion, 2 Projects 
+1. [Part1: Introduction to Pytorch](Part1-pytorch.md)
+   * Overview
+   * Loading the data
+   * Creating the model class
+   * Instantiating the model
+   * Training 
+   * Evaluation
 
-1. [Part1: HAAR cascades](Part1-haarcascade.md)
-2. [Part2: Using Haarcascades for face and eye detection](Part1-faceeye.md)
-3. [Part3: Project-Face detection web application with flask](Part3-P5.md)
+2. [Part1: Pytorch notebook](Part1-pytorch.ipynb)
+3. [Part2: Project-Face detection web application with flask](Part3-P5.md)
 4. [Part4: Working on custom data](Part4-custom-data.md)
 5. [Part5: Face Recognition on custom data](Part5-face-recog.md)
 6. [Part5: Face Recognition on custom data Notebook](Part5-face-recog.ipynb)
