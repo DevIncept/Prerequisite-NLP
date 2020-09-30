@@ -14,9 +14,9 @@ Steps for the same:
 
 4. Now you will see, Github has already gave a template for this readme.md in repository, and you can try to edit it, and try to add more features to it like providing links of your social media accounts.
 
-5. After editing save it, and go to your main profile, you will see that readme with your profile like this one [here.](https://github.com/arpit-dwivedi)
+5. After editing save it, and go to your main profile, you will see that readme with your profile like this one [here.](https://https://github.com/j-a-r-v-i)
 
-6. After completing, just comment `Assignment-Github Profile Done` on this [issue.](https://github.com/DevIncept/Prerequisite-OpenCV/issues/1)
+6. After completing, just comment `Assignment-Github Profile Done` on this [issue.](https://github.com/DevIncept/Prerequisite-NLP/issues/1)
 
 &nbsp;
 
