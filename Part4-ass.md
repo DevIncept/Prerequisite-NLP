@@ -25,4 +25,4 @@ Steps for the same:
 
 Thanks for Reading!!!
 
-Go back to [Prerequisite-OpenCV](https://github.com/DevIncept/Prerequisite-OpenCV)
+Go back to [Prerequisite-NLP](https://github.com/DevIncept/Prerequisite-NLP)
