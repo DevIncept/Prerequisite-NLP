@@ -69,4 +69,4 @@ Below image explains in brief the git workflow.
 
 Thanks for Reading!!!
 
-Go back to [Prerequisite-OpenCV](https://github.com/DevIncept/Prerequisite-OpenCV)
+Go back to [Prerequisite-NLP](https://github.com/DevIncept/Prerequisite-NLP)
