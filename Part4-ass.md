@@ -16,7 +16,7 @@ Steps for the same:
 
 5. After editing save it, and go to your main profile, you will see that readme with your profile like this one [here.](https://https://github.com/j-a-r-v-i)
 
-6. After completing, just comment `Assignment-Github Profile Done` on this [issue.](https://github.com/DevIncept/Prerequisite-NLP/issues/1)
+6. After completing, fill the form shared on Slack workspace.
 
 &nbsp;
 
